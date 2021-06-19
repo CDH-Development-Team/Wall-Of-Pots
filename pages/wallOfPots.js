@@ -1229,9 +1229,9 @@ export default function PotsPage(props) {
                           <GridItem xs={12} sm={12} md={3}>
                           <Pot 
                                         name="Basketmaker Mudware bowl"
-                                        captionLine1="Ancestral Pueblo (Anasazi)\n Kayenta Province"
+                                        captionLine1="Ancestral Pueblo (Anasazi) Kayenta Province"
                                         captionLine2="C. 575–700 CE"
-                                        captionLine3="Broken Flute Cave, Prayer Rock District\n  Apache Co., AZ"
+                                        captionLine3="Broken Flute Cave, Prayer Rock District Apache Co., AZ"
                                         captionLine4="Gift of Carnegie Institution, 1957"
                                         captionLine5="Excavated by Earl H. Morris, 1931"
                                         potID="A-14380"
@@ -1241,14 +1241,79 @@ export default function PotsPage(props) {
                           </GridItem>
                           <GridItem xs={12} sm={12} md={3}>
                           <Pot 
-                                        name="Basketmaker Mudware bowl"
-                                        captionLine1="Ancestral Pueblo (Anasazi)\n Kayenta Province"
-                                        captionLine2="C. 575–700 CE"
-                                        captionLine3="Broken Flute Cave, Prayer Rock District\n  Apache Co., AZ"
+                                        name="Obelisk Gray seed jar"
+                                        captionLine1="Ancestral Pueblo (Anasazi) Kayenta Province"
+                                        captionLine2="C. 450–800 CE"
+                                        captionLine3="Cave II, Prayer Rock District, Apache Co., AZ"
                                         captionLine4="Gift of Carnegie Institution, 1957"
                                         captionLine5="Excavated by Earl H. Morris, 1931"
-                                        potID="A-14380"
-                                        path="img/pot-images/Col3/Shelf5/A-14380.png"
+                                        potID="A-14304"
+                                        path="img/pot-images/Col3/Shelf5/A-14304.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Potsuwi’i Incised canteen"
+                                        captionLine1="Early Tewa, Chama Province"
+                                        captionLine2="C. 1450–1500 CE"
+                                        captionLine3="Poshu’ouinge, Rio Chama,\n Rio Arriba Co., NM"
+                                        captionLine4="Gift of Gila Pueblo Foundation, 1950"
+                                        captionLine5="Fred Harvey Co. Collection"
+                                        potID="GP6108"
+                                        path="img/pot-images/Col3/Shelf5/GP-6108.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Tusayan Corrugated jar"
+                                        captionLine1="Ancestral Pueblo (Anasazi) Kayenta Province"
+                                        captionLine2="C. 950–1300 CE"
+                                        captionLine3="Broken Flute Cave, Prayer Rock District Apache Co., AZ"
+                                        captionLine4="Gift of Carnegie Institution, 1957"
+                                        captionLine5="Excavated by Earl H. Morris, 1931"
+                                        potID="A-14404"
+                                        path="img/pot-images/Col3/Shelf5/A-14404.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Lino Gray seed jar"
+                                        captionLine1="Ancestral Pueblo (Anasazi) Kayenta Province"
+                                        captionLine2="C. 575–875 CE"
+                                        captionLine3="Cave VIII, Prayer Rock District, Apache Co., AZ"
+                                        captionLine4="Gift of Carnegie Institution, 1957"
+                                        captionLine5="Excavated by Earl H. Morris, 1931"
+                                        potID="A-14360"
+                                        path="img/pot-images/Col3/Shelf5/A-14360.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Kana-a Gray pitcher"
+                                        captionLine1="Ancestral Pueblo (Anasazi) Kayenta Province"
+                                        captionLine2="C. 760–900 CE"
+                                        captionLine3="Kayenta vicinity, Navajo Co., AZ"
+                                        captionLine4="ASM Purchase, 1930"
+                                        captionLine5="Warren Collection"
+                                        potID="19197"
+                                        path="img/pot-images/Col3/Shelf5/19197.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Little Colorado Corrugated jar"
+                                        captionLine1="Ancestral Pueblo(Anasazi) Little Colorado Province"
+                                        captionLine2="C. 1080–1275 CE"
+                                        captionLine3="Painted Desert, Navajo Co., AZ"
+                                        captionLine4="Gift of Gila Pueblo Foundation, 1950"
+                                        captionLine5="Scorse Collection"
+                                        potID="GP1079"
+                                        path="img/pot-images/Col3/Shelf5/GP-1079.jpg"
                                         has3DModel="false"
                                   />
                           </GridItem>
