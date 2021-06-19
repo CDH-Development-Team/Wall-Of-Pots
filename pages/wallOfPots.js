@@ -1639,17 +1639,251 @@ export default function PotsPage(props) {
                         <IntroSection5 />
                         <GridContainer justify="center">
                          <GridItem xs={12} sm={12} md={3}>
-                            
+                         <Pot 
+                                        name="Zia Polychrome jar"
+                                        captionLine1="Andrea Gachupin"
+                                        captionLine2="C. 2002"
+                                        captionLine3="Pueblo of Zia, NM"
+                                        captionLine4="ASM Purchase"
+                                        potID="E-2847"
+                                        path="img/pot-images/Col5/Shelf1/E-2847.png"
+                                        has3DModel="false"
+                                  />
                           </GridItem>
                           <GridItem xs={12} sm={12} md={3}>
-                            
+                          <Pot 
+                                        name="Zia Polychrome jar"
+                                        captionLine1="Ruby Panana"
+                                        captionLine2="C. 1930"
+                                        captionLine3="Pueblo of Zia, NM"
+                                        captionLine4="Gift of Fred Hawley"
+                                        potID="2002-78-1"
+                                        path="img/pot-images/Col5/Shelf1/2002-78-1.png"
+                                        has3DModel="false"
+                                  />
                           </GridItem>
                           <GridItem xs={12} sm={12} md={3}>
-                          </GridItem>
-                          <GridItem xs={12} sm={12} md={3}>
-                           
+                          <Pot 
+                                        name="Zia dough bowl"
+                                        captionLine1="Ruby Panana"
+                                        captionLine2="C. 1900"
+                                        captionLine3="Pueblo of Zia, NM"
+                                        captionLine4="Gift of Dr. and Mrs. George Gaylord Simpson"
+                                        potID="80-64-1"
+                                        path="img/pot-images/Col5/Shelf1/80-64-1.png"
+                                        has3DModel="false"
+                                  />
                           </GridItem>
                         </GridContainer>
+                        <GridContainer justify="center">
+                         <GridItem xs={12} sm={12} md={3}>
+                         <Pot 
+                                        name="San Ildefonso Polychrome jar"
+                                        captionLine1="Attributed to Crescencio and Maria Martinez"
+                                        captionLine2="C. 1915"
+                                        captionLine3="Pueblo of San Ildefonso, NM"
+                                        captionLine4="Purchased at Rasmussen’s Curios, Tucson, 1930s"
+                                        captionLine5="Gift of Mrs. Arthur Hamilton Otis"
+                                        potID="E-5518"
+                                        path="img/pot-images/Col5/Shelf2/E-5518.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Zia Polychrome jar"
+                                        captionLine1="C. 1910"
+                                        captionLine2="Pueblo of Zia, NM"
+                                        captionLine3="Exchange with Museum of New Mexico"
+                                        potID="7377"
+                                        path="img/pot-images/Col5/Shelf2/7377.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Santo Domingo Polychrome jar"
+                                        captionLine1="C. 1914"
+                                        captionLine2="Kewa Pueblo, NM"
+                                        captionLine3="Gift of William Donner"
+                                        potID="E-3738"
+                                        path="img/pot-images/Col5/Shelf2/E-3738.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="San Ildefonso Polychrome jar"
+                                        captionLine1="C. 1910"
+                                        captionLine2="Pueblo of San Ildefonso, NM"
+                                        captionLine3="ASM Purchase"
+                                        captionLine4="Collected by Nelle A. Dermont"
+                                        potID="8333"
+                                        path="img/pot-images/Col5/Shelf2/8333.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Santo Domingo Polychrome jar (not visible)"
+                                        captionLine1="C. 1900"
+                                        captionLine2="Kewa Pueblo, NM"
+                                        captionLine3="Gift of Dr. Robert H. Forbes"
+                                        potID="E-3649 "
+                                        path="img/pot-images/Col5/Shelf2/E-3649.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                        </GridContainer>
+                        <GridContainer justify="center">
+                         <GridItem xs={12} sm={12} md={3}>
+                         <Pot 
+                                        name="San Ildefonso Polychrome jar"
+                                        captionLine1="Maria and Julian Martinez"
+                                        captionLine2="C. 1920"
+                                        captionLine3="Pueblo of San Ildefonso, NM"
+                                        captionLine4="Gift of Gila Pueblo Foundation, 1950"
+                                        potID="GP52582"
+                                        path="img/pot-images/Col5/Shelf3/GP-52582.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                         <Pot 
+                                        name="San Ildefonso terraced serving bowl (part of 30-piece dinnerware set)"
+                                        captionLine1="Maria and Julian Martinez"
+                                        captionLine2="C. 1929"
+                                        captionLine3="Pueblo of San Ildefonso, NM"
+                                        captionLine4="Gift of Ansel and Virginia Adams"
+                                        potID="77-63-7"
+                                        path="img/pot-images/Col5/Shelf3/77-63-7.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                         <Pot 
+                                        name="Cochiti storyteller figure"
+                                        captionLine1="Delfino Trancosa"
+                                        captionLine2="C. 1978"
+                                        captionLine3="Pueblo of Cochiti, NM"
+                                        captionLine4="Gift of Dr. Barbara Babcock"
+                                        potID="86-69-1"
+                                        path="img/pot-images/Col5/Shelf3/86-69-1.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                         <Pot 
+                                        name="San Ildefonso Black-on-black terraced jar, Awanyu (plumed serpent) design"
+                                        captionLine1="Carmelita Dunlap"
+                                        captionLine2="C. 1970"
+                                        captionLine3="Pueblo of San Ildefonso, NM"
+                                        captionLine4="Gift of Thomas Bahti"
+                                        potID="E-9392"
+                                        path="img/pot-images/Col5/Shelf3/E-9392.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                         <Pot 
+                                        name="Santa Clara wedding jar"
+                                        captionLine1="C. 1910"
+                                        captionLine2="Pueblo of Santa Clara, NM"
+                                        captionLine3="ASM Purchase"
+                                        captionLine4="Collected by Nelle A. Dermont"
+                                        potID="8271"
+                                        path="img/pot-images/Col5/Shelf3/8271.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                         <Pot 
+                                        name="Santa Clara jar with painted Matachin dance"
+                                        captionLine1="Lois Gutierrez de la Cruz"
+                                        captionLine2="C. 2002"
+                                        captionLine3="Pueblo of Santa Clara, NM"
+                                        captionLine4="Gift of Milton and Anita Katz"
+                                        potID="2006-1052-10"
+                                        path="img/pot-images/Col5/Shelf3/2006-1052-10.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                         <Pot 
+                                        name="Santa Clara seed jar with medallion (not visible)"
+                                        captionLine1="Grace Medicine Flower and Camilio Tafoya"
+                                        captionLine2="C. 1970"
+                                        captionLine3="Pueblo of Santa Clara, NM"
+                                        captionLine4="Gift of Thomas Bahti"
+                                        potID="E-9393"
+                                        path="img/pot-images/Col5/Shelf3/E-9393.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          </GridContainer>
+                          <GridContainer justify="center">
+                         <GridItem xs={12} sm={12} md={3}>
+                         <Pot 
+                                        name="Zia Polychrome jar"
+                                        captionLine1="C. 1928"
+                                        captionLine2="Pueblo of Zia, NM"
+                                        captionLine3="“Purchased from Wichmiller” Gallup Ceremonial First Prize winner"
+                                        captionLine4="Gift of Gila Pueblo Foundation, 1950"
+                                        potID="GP5902"
+                                        path="img/pot-images/Col5/Shelf4/GP-5902.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                         <Pot 
+                                        name="San Ildefonso Polychrome bowl"
+                                        captionLine1="Maria and Julian Martinez"
+                                        captionLine2="C. 1920"
+                                        captionLine3="Pueblo of San Ildefonso, NM"
+                                        captionLine4="Gift of Gila Pueblo Foundation, 1950"
+                                        captionLine5="Collected by Byron Cummings"
+                                        potID="12207"
+                                        path="img/pot-images/Col5/Shelf4/12207.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                         <Pot 
+                                        name="Jemez bat bowl"
+                                        captionLine1="Verda Toledo"
+                                        captionLine2="C. 2006"
+                                        captionLine3="Pueblo of Jemez, NM"
+                                        captionLine4="Gift of a Museum Friend"
+                                        potID="2006-166-1"
+                                        path="img/pot-images/Col5/Shelf4/2006-166-1.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                         <Pot 
+                                        name="Santa Clara jar"
+                                        captionLine1="C. 1900"
+                                        captionLine2="Pueblo of Santa Clara, NM"
+                                        captionLine3="ASM Purchase"
+                                        captionLine4="Collected by Nelle A. Dermont"
+                                        potID="8279"
+                                        path="img/pot-images/Col5/Shelf4/8279.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                         <Pot 
+                                        name="Cochiti ram effigy pitcher (not visible)"
+                                        captionLine1="Teresita Romero"
+                                        captionLine2="C. 1962"
+                                        captionLine3="Pueblo of Cochiti, NM"
+                                        captionLine4="ASM Purchase by Wilma Kaemlein"
+                                        potID="E-5340"
+                                        path="img/pot-images/Col5/Shelf4/E-5340.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          </GridContainer>
                       </div>
                       ),
                     },
