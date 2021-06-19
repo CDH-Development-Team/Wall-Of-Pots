@@ -1329,18 +1329,305 @@ export default function PotsPage(props) {
                         <IntroSection4 />
                         <GridContainer justify="center">
                           <GridItem xs={12} sm={12} md={3}>
-                           
+                          <Pot 
+                                        name="Hopi Polychrome jar"
+                                        captionLine1="Palhikwmana (Moisture-drinking Maiden) Katsina design"
+                                        captionLine2="C. 1920"
+                                        captionLine3="Collector unknown"
+                                        captionLine4="Hopi Mesas, AZ"
+                                        potID="12726"
+                                        path="img/pot-images/Col4/Shelf1/12726.png"
+                                        has3DModel="false"
+                                  />
                           </GridItem>
                           <GridItem xs={12} sm={12} md={3}>
-
-                          </GridItem>
-                          <GridItem xs={12} sm={12} md={3}>
-                          
-                          </GridItem>
-                          <GridItem xs={12} sm={12} md={3}>
-                            
+                          <Pot 
+                                        name="Laguna Polychrome jar"
+                                        captionLine1="Possibly by Triz-Ray (Louise Beeker or Beecher)"
+                                        captionLine2="C. 1900"
+                                        captionLine3="Pueblo of Laguna, NM"
+                                        captionLine4="Gift of Mary T. Fitzmaurice"
+                                        captionLine5="Collected by Henry G. Peabody"
+                                        potID="75-5-2"
+                                        path="img/pot-images/Col4/Shelf1/75-5-2.png"
+                                        has3DModel="false"
+                                  />
                           </GridItem>
                         </GridContainer>
+                        <GridContainer justify="center">
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Acoma Polychrome jar"
+                                        captionLine1="C. 1890"
+                                        captionLine2="Pueblo of Acoma, NM"
+                                        captionLine3="Gift of B. D. Butler"
+                                        potID="22933"
+                                        path="img/pot-images/Col4/Shelf2/22933.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Laguna Polychrome jar"
+                                        captionLine1="Possibly by Tzu-chey (Minnie Sice)"
+                                        captionLine2="C. 1900"
+                                        captionLine3="Pueblo of Laguna, NM"
+                                        captionLine4="Gift of Mary T. Fitzmaurice"
+                                        captionLine5="Collected by Henry G. Peabody"
+                                        potID="75-5-1"
+                                        path="img/pot-images/Col4/Shelf2/75-5-1.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Acoma Polychrome jar"
+                                        captionLine1="C. 1900"
+                                        captionLine2="Pueblo of Acoma, NM"
+                                        captionLine3="Collected by Nelle A. Dermont"
+                                        potID="23682"
+                                        path="img/pot-images/Col4/Shelf2/23682.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Acoma wedding jar"
+                                        captionLine1="Jessie C. Garcia"
+                                        captionLine2="C. 1970"
+                                        captionLine3="Pueblo of Acoma, NM"
+                                        captionLine4="Collected by Thomas Bahti"
+                                        potID="E-9469"
+                                        path="img/pot-images/Col4/Shelf2/E-9469.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Acoma Fine-line jar"
+                                        captionLine1="Lucy Lewis"
+                                        captionLine2="C. 1970"
+                                        captionLine3="Pueblo of Acoma, NM"
+                                        captionLine4="Gift of Margaret Beecher"
+                                        potID="2000-14-2911"
+                                        path="img/pot-images/Col4/Shelf2/2000-14-2911.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                        </GridContainer>
+                        <GridContainer justify="center">
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Zuni Polychrome jar"
+                                        captionLine1="C. 1870"
+                                        captionLine2="Pueblo of Zuni, NM"
+                                        captionLine3="Probably collected by Byron Cummings"
+                                        potID="12193"
+                                        path="img/pot-images/Col4/Shelf3/12193.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Zuni Polychrome jar"
+                                        captionLine1="Noreen Simplicio"
+                                        captionLine2="C. 2004"
+                                        captionLine3="Pueblo of Zuni, NM"
+                                        captionLine4="ASM Purchase, VP for Research Richard Powell funds"
+                                        potID="2004-351-1"
+                                        path="img/pot-images/Col4/Shelf3/2004-351-1.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Zuni jar with appliqué frogs"
+                                        captionLine1="C. 1930"
+                                        captionLine2="Pueblo of Zuni, NM"
+                                        captionLine3="Gift of Toni Elmore"
+                                        captionLine4="Collected by Francis H. Elmore"
+                                        potID="97-156-54"
+                                        path="img/pot-images/Col4/Shelf3/97-156-54.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Zuni Polychrome jar"
+                                        captionLine1="C. 1890"
+                                        captionLine2="Pueblo of Zuni, NM"
+                                        captionLine3="Gift of the Arizona Archaeological and Historical Society"
+                                        captionLine4="Collected by Dr. Joshua A. Miller"
+                                        potID="4167"
+                                        path="img/pot-images/Col4/Shelf3/4167.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Zuni owl figure (not visible)"
+                                        captionLine1="C. 1880"
+                                        captionLine2="Pueblo of Zuni, NM"
+                                        captionLine3="Gift of Emily, Elizabeth, and George Brown"
+                                        captionLine4="Collected by Dr. Daniel Webster \n Prentiss Jr."
+                                        captionLine5="possibly from John Wesley Powell"
+                                        potID="E-6423"
+                                        path="img/pot-images/Col4/Shelf3/E-6423.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                        </GridContainer>
+                        <GridContainer justify="center">
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Hopi Polacca Polychrome ladle"
+                                        captionLine1="Taawakatsina (Sun Katsina) on interior and Kooninkatsina (Havasupai Katsina) handle"
+                                        captionLine2="C. 1880"
+                                        captionLine3="Hopi Mesas, AZ"
+                                        captionLine4="Gift of Emily Brown, George D. Brown, and Elizabeth Brown McGuire"
+                                        captionLine5="Collected by Dr. Daniel Webster Prentiss Jr."
+                                        captionLine6="possibly from John Wesley Powell"
+                                        potID="E-6420"
+                                        path="img/pot-images/Col4/Shelf4/E-6420.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Hopi Polacca Polychrome jar"
+                                        captionLine1="C. 1880"
+                                        captionLine4="Hopi Mesas, AZ"
+                                        captionLine5="Gift of Gila Pueblo Foundation, 1950"
+                                        potID="GP52543"
+                                        path="img/pot-images/Col4/Shelf4/GP-52543.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Hopi-Tewa Polychrome jar"
+                                        captionLine1="C. 1920 "
+                                        captionLine2="Hopi Mesas, AZ"
+                                        captionLine3="ASM Purchase"
+                                        captionLine4="Collected by Nelle A. Dermont"
+                                        potID="8308"
+                                        path="img/pot-images/Col4/Shelf4/8308.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Hopi Polychrome vase"
+                                        captionLine1="C. 1928"
+                                        captionLine2="Hopi Mesas, AZ"
+                                        captionLine3="Gift of Gila Pueblo Foundation, 1950"
+                                        captionLine4="Collected by B. I. Staples"
+                                        potID="GP5899"
+                                        path="img/pot-images/Col4/Shelf4/GP-5899.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Hopi Polychrome vase"
+                                        captionLine1="C. 1920"
+                                        captionLine2="Hopi Mesas, AZ"
+                                        captionLine3="Gift of Faith M. Odom"
+                                        captionLine4="Collected by Mr. and Mrs. Charles Minor"
+                                        potID="88-90-19"
+                                        path="img/pot-images/Col4/Shelf4/88-90-19.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Hopi Polychrome vase"
+                                        captionLine1="C. 1870"
+                                        captionLine2="Hopi Mesas, AZ"
+                                        captionLine3="Gift of the Arizona Archaeological and Historical Society"
+                                        captionLine4="Collected by Dr. Joshua A. Miller"
+                                        potID="4009"
+                                        path="img/pot-images/Col4/Shelf4/4009.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          </GridContainer>
+                          <GridContainer justify="center">
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Hopi-Tewa Polychrome jar"
+                                        captionLine1="Nampeyo and possibly Fannie or Rachael Nampeyo"
+                                        captionLine2="C. 1930"
+                                        captionLine3="Hopi Mesas, AZ"
+                                        captionLine4="Gift of Gila Pueblo Foundation, 1950"
+                                        potID="GP52543"
+                                        path="img/pot-images/Col4/Shelf5/GP-52543.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Hopi-Tewa Polychrome jar"
+                                        captionLine1="Nampeyo and Fannie Nampeyo"
+                                        captionLine2="C. 1923"
+                                        captionLine3="Hopi Mesas, AZ"
+                                        captionLine4="Gift of Mrs. Charles Morgan (Nan) Wood"
+                                        captionLine5="Collected by Charles Morgan Wood"
+                                        potID="E-2031"
+                                        path="img/pot-images/Col4/Shelf5/E-2031.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Hopi-Tewa Polychrome jar"
+                                        captionLine1="Karen Abeita"
+                                        captionLine2="C. 2006"
+                                        captionLine3="Hopi Mesas, AZ"
+                                        captionLine4="Gift of Milton and Anita Katz"
+                                        potID="2006-1052-23"
+                                        path="img/pot-images/Col4/Shelf5/2006-1052-23.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Hopi-Tewa Polychrome seed jar"
+                                        captionLine1="Hisi Nampeyo"
+                                        captionLine2="C. 2000"
+                                        captionLine3="Hopi Mesas, AZ"
+                                        captionLine4="Gift of Milton and Anita Katz"
+                                        potID="2006-1052-19"
+                                        path="img/pot-images/Col4/Shelf5/2006-1052-19.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Hopi Polacca Polychrome canteen"
+                                        captionLine1="Kooninkatsina (Havasupai Katsina) design"
+                                        captionLine2="C. 1890"
+                                        captionLine3="Hopi Mesas, AZ"
+                                        captionLine4="Gift of the Arizona Archaeological and Historical Society"
+                                        captionLine5="Collected by Dr. Joshua A. Miller"
+                                        potID="18243"
+                                        path="img/pot-images/Col4/Shelf5/18243.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Hopi-Tewa Polychrome jar"
+                                        captionLine1="Leah Nampeyo"
+                                        captionLine2="C. 1970"
+                                        captionLine3="Hopi Mesas, AZ"
+                                        captionLine4="Gift of Margaret Beecher"
+                                        potID="2000-14-32"
+                                        path="img/pot-images/Col4/Shelf5/2000-14-32.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          </GridContainer>
                       </div>
                       ),
                     },
