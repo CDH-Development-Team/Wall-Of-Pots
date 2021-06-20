@@ -1895,18 +1895,461 @@ export default function PotsPage(props) {
                         <IntroSection6 />
                         <GridContainer justify="center">
                           <GridItem xs={12} sm={12} md={3}>
-                            
+                          <Pot 
+                                        name="O’odham (?) Black-on-cream jar"
+                                        captionLine1="C. 1900"
+                                        captionLine2="Southern Arizona"
+                                        captionLine3="Gift of the Estate of Walter Scott Lieber"
+                                        potID="E-8736"
+                                        path="img/pot-images/Col6/Shelf1/E-8736.png"
+                                        has3DModel="false"
+                                  />
                           </GridItem>
                           <GridItem xs={12} sm={12} md={3}>
-                            
+                          <Pot 
+                                        name="Pee Posh human effigy jar"
+                                        captionLine1="C. 1900"
+                                        captionLine2="Laveen, AZ"
+                                        captionLine3="Gift of B. D. Butler"
+                                        captionLine4="Collected by Caroline Smurthwaite and Ann Eliza Connell"
+                                        potID="22766"
+                                        path="img/pot-images/Col6/Shelf1/22766.png"
+                                        has3DModel="false"
+                                  />
                           </GridItem>
                           <GridItem xs={12} sm={12} md={3}>
-                          
-                          </GridItem>
-                          <GridItem xs={12} sm={12} md={3}>
-                            
+                          <Pot 
+                                        name="Mojave Red-on-brown jar"
+                                        captionLine1="C. 1900"
+                                        captionLine2="Lower Colorado River"
+                                        potID="19179"
+                                        path="img/pot-images/Col6/Shelf1/19179.png"
+                                        has3DModel="false"
+                                  />
                           </GridItem>
                         </GridContainer>
+                        <GridContainer justify="center">
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Warihío appliqué jar"
+                                        captionLine1="C. 1980"
+                                        captionLine2="Loreto, Chihuahua"
+                                        captionLine3="Gift of the UA Foundation President’s Club"
+                                        captionLine4="Collected by Roberto Ruiz and Edmond Faubert"
+                                        potID="80-13-8"
+                                        path="img/pot-images/Col6/Shelf2/80-13-8.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Mayo painted jar"
+                                        captionLine1="C. 1998"
+                                        captionLine2="Capomos, Sinaloa"
+                                        captionLine3="Collected by Jan Bell"
+                                        potID="98-125-10"
+                                        path="img/pot-images/Col6/Shelf2/98-125-10.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Tarahumara (Rarámuri) painted jar"
+                                        captionLine1="Juana Peinado"
+                                        captionLine2="C. 1972"
+                                        captionLine3="Guachochi, Chihuahua"
+                                        captionLine4="Gift of the UA Foundation President’s Club"
+                                        captionLine5="Collected by Edmond Faubert"
+                                        potID="78-53-88"
+                                        path="img/pot-images/Col6/Shelf2/78-53-88.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Tarahumara (Rarámuri) painted jar"
+                                        captionLine1="Rosa Nava"
+                                        captionLine2="C. 1977"
+                                        captionLine3="Panalachic, Chihuahua"
+                                        captionLine4="Gift of the UA Foundation President’s Club"
+                                        captionLine5="Collected by Edmond Faubert"
+                                        potID="77-33-14"
+                                        path="img/pot-images/Col6/Shelf2/77-33-14.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Tarahumara (Rarámuri) pitcher and lid(not visible)"
+                                        captionLine1="Rosa Nava"
+                                        captionLine2="C. 1979"
+                                        captionLine3="Guachochi, Chihuahua"
+                                        captionLine4="Gift of the UA Foundation President’s Club"
+                                        captionLine5="Collected by Edmond Faubert"
+                                        potID="78-53-89"
+                                        path="img/pot-images/Col6/Shelf2/78-53-89.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          </GridContainer>
+                          <GridContainer justify="center">
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Tohono O’odham human effigy figure"
+                                        captionLine1="C. 1900"
+                                        captionLine2="Southern Arizona"
+                                        potID="18323"
+                                        path="img/pot-images/Col6/Shelf3/18323.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Tohono O’odham Red-on-brown jar"
+                                        captionLine1="C. 1890"
+                                        captionLine2="Santa Rosa, AZ"
+                                        captionLine3="Gift of Muriel W. Hanna"
+                                        potID="8636"
+                                        path="img/pot-images/Col6/Shelf3/8636.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Tohono O’odham singing figure"
+                                        captionLine1="Rupert Angea"
+                                        captionLine2="C. 2006"
+                                        captionLine3="Hickiwan, AZ"
+                                        captionLine4="Loaned by Reuben Naranjo, 2006"
+                                        potID="2008-511-1"
+                                        path="img/pot-images/Col6/Shelf3/2008-511-1.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Tohono O’odham friendship jar"
+                                        captionLine1="Rupert Angea"
+                                        captionLine2="C. 1970"
+                                        captionLine3="Hickiwan, AZ"
+                                        captionLine4="ASM Purchase From Michael Higgins, John Tanner Fund"
+                                        potID="2006-918-1"
+                                        path="img/pot-images/Col6/Shelf3/2006-918-1.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Pee Posh Black-on-white jar"
+                                        captionLine1="C. 1900"
+                                        captionLine2="Laveen, AZ"
+                                        captionLine3="Gift of B. D. Butler"
+                                        captionLine4="Collected by Caroline Smurthwaite and Ann Eliza Connell"
+                                        potID="22869"
+                                        path="img/pot-images/Col6/Shelf3/22869.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Pee Posh Black-on-red pitcher"
+                                        captionLine1="C. 1885"
+                                        captionLine2="Laveen, AZ"
+                                        captionLine3="Gift of B. D. Butler"
+                                        captionLine4="Collected by Caroline Smurthwaite and Ann Eliza Connell"
+                                        potID="22822"
+                                        path="img/pot-images/Col6/Shelf3/22822.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Tohono O’odham (?) human effigy jar"
+                                        captionLine1="C. 1920"
+                                        captionLine2="Southern Arizona"
+                                        captionLine3="Collected by Douglas Gray"
+                                        potID="14465"
+                                        path="img/pot-images/Col6/Shelf3/14465.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Pee Posh human effigy figure"
+                                        captionLine1="C. 1900"
+                                        captionLine2="Laveen, AZ"
+                                        captionLine3="Gift of B. D. Butler"
+                                        captionLine4="Collected by Caroline Smurthwaite and Ann Eliza Connell"
+                                        potID="22870"
+                                        path="img/pot-images/Col6/Shelf3/22870.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Pee Posh double-spouted jar"
+                                        captionLine1="C. 1900"
+                                        captionLine2="Central Arizona"
+                                        captionLine3="Gift of Adela C. Van Horn"
+                                        potID="E-492"
+                                        path="img/pot-images/Col6/Shelf3/E-492.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Pee Posh wedding jar"
+                                        captionLine1="Mabel Sunn"
+                                        captionLine2="C. 1971"
+                                        captionLine3="ASM Purchase, Arizona Archaeological and Historical Society Discretionary Fund"
+                                        potID="E-9764"
+                                        path="img/pot-images/Col6/Shelf3/E-9764.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          </GridContainer>
+                          <GridContainer justify="center">
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Mojave doll figures"
+                                        captionLine1="Attributed to Annie Fields"
+                                        captionLine2="Left: c. 1960"
+                                        captionLine3="Needles, CA"
+                                        captionLine4="Collected by Sally Pierce Harris"
+                                        captionLine5="Right: 1961"
+                                        captionLine6="Needles, CA"
+                                        captionLine7="ASM Purchase, Arizona Archaeological and Historical Society Discretionary Fund"
+                                        potID="81-15-2,  E-4790"
+                                        path="img/pot-images/Col6/Shelf4/81-15-2.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Mojave effigy jar"
+                                        captionLine1="C. 1917"
+                                        captionLine2="Lower Colorado River"
+                                        captionLine3="Gift of the Arizona Archaeological and Historical Society"
+                                        captionLine4="Collected by Dr. Joshua A. Miller"
+                                        potID="4173"
+                                        path="img/pot-images/Col6/Shelf4/4173.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Mojave bowl with handle and figures"
+                                        captionLine1="Annie Fields"
+                                        captionLine2="C. 1959"
+                                        captionLine3="Needles, CA"
+                                        captionLine4="Gift of Paul Long"
+                                        potID="E-3754"
+                                        path="img/pot-images/Col6/Shelf4/E-3754.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Mojave female effigy jar"
+                                        captionLine1="C. 1900"
+                                        captionLine2="Lower Colorado River"
+                                        captionLine3="Collected by Gary White"
+                                        potID="87-54-1"
+                                        path="img/pot-images/Col6/Shelf4/87-54-1.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Quechan Red-on-buff pitcher"
+                                        captionLine1="C. 1900"
+                                        captionLine2="Lower Colorado River"
+                                        captionLine3="Collected by Herbert Brown"
+                                        potID="218"
+                                        path="img/pot-images/Col6/Shelf4/218.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Mojave Red-on-buff jar"
+                                        captionLine1="Elmer Gates"
+                                        captionLine2="C. 1971"
+                                        captionLine3="Parker, AZ"
+                                        captionLine4="Collected by Mrs. Dorothy Hall"
+                                        potID="218"
+                                        path="img/pot-images/Col6/Shelf4/E-9916.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Mojave female effigy jar"
+                                        captionLine1="Annie Fields"
+                                        captionLine2="C. 1962"
+                                        captionLine3="Parker, AZ"
+                                        captionLine4="Collected by Sally Pierce Harris"
+                                        potID="81-15-15"
+                                        path="img/pot-images/Col6/Shelf4/81-15-15.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Quechan Red-on-buff bow"
+                                        captionLine1="C. 1900"
+                                        captionLine2="Fort Yuma, AZ"
+                                        captionLine3="Collected by Herbert Brown"
+                                        potID="210"
+                                        path="img/pot-images/Col6/Shelf4/210.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Quechan doll figures(not visible)"
+                                        captionLine1="C. 1900"
+                                        captionLine2="Left: Lower Colorado River"
+                                        captionLine3="Gift of Ellyn Teskey"
+                                        potID="80-57-2"
+                                        path="img/pot-images/Col6/Shelf4/80-57-2.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Quechan doll figures(not visible)"
+                                        captionLine1="C. 1900"
+                                        captionLine2="Right: Fort Yuma Reservation"
+                                        captionLine3="Collected by Herbert Brown"
+                                        potID="23055-X-9"
+                                        path="img/pot-images/Col6/Shelf4/23055-X-9.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          </GridContainer>
+                          <GridContainer justify="center">
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Navajo jar with sculpted rim"
+                                        captionLine1="Sue Ann Williams"
+                                        captionLine2="C. 2005"
+                                        captionLine3="Shonto, AZ"
+                                        captionLine4="Gift of Bobette Levy"
+                                        potID="2005-999-1"
+                                        path="img/pot-images/Col6/Shelf5/2005-999-1.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Navajo squash jar"
+                                        captionLine1="Samuel Manymules"
+                                        captionLine2="C. 2006"
+                                        captionLine3="Shonto, AZ"
+                                        potID="2006-1052-6"
+                                        path="img/pot-images/Col6/Shelf5/2006-1052-6.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Navajo drum pot"
+                                        captionLine1="Rose Williams"
+                                        captionLine2="C. 2005"
+                                        captionLine3="Shonto, AZ"
+                                        captionLine4="Collected from the artist"
+                                        potID="2005-338-1"
+                                        path="img/pot-images/Col6/Shelf5/2005-338-1.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Navajo cooking-style jar"
+                                        captionLine1="Alice Cling"
+                                        captionLine2="C. 1990"
+                                        captionLine3="Shonto, AZ"
+                                        captionLine4="Collected by Jan Bell"
+                                        potID="90-74-1"
+                                        path="img/pot-images/Col6/Shelf5/90-74-1.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Picuris Pueblo micaceous “rain god”"
+                                        captionLine1="Pueblo of Picuris, NM"
+                                        captionLine2="Arizona Archaeological and Historical Society Discretionary Fund"
+                                        captionLine3="Purchase by Wilma Kaemlein"
+                                        captionLine4="Collected by Jan Bell, 1958"
+                                        potID="E-3674"
+                                        path="img/pot-images/Col6/Shelf5/E-3674.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Nambe Pueblo micaceous jar and lid"
+                                        captionLine1="Lonnie Vigil"
+                                        captionLine2="C. 1988"
+                                        captionLine3="Pueblo of Nambe, NM"
+                                        captionLine4="Collected by Jan Bell"
+                                        potID="89-81-1"
+                                        path="img/pot-images/Col6/Shelf5/89-81-1.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Picuris micaceous jar"
+                                        captionLine1="Anthony Durand"
+                                        captionLine2="Pueblo of Picuris, NM"
+                                        captionLine3="Gift of Richard and Lynne Spivey"
+                                        potID="2006-1064-1"
+                                        path="img/pot-images/Col6/Shelf5/2006-1064-1.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Jicarilla Apache micaceous jar and lid"
+                                        captionLine1="Sheldon Nunez-Velarde"
+                                        captionLine2="C. 2004"
+                                        captionLine3="Dulce, NM"
+                                        captionLine4="ASM Purchase"
+                                        captionLine5="VP for Research Richard Powell funds"
+                                        potID="2004-348-1"
+                                        path="img/pot-images/Col6/Shelf5/2004-348-1.png"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Santa Clara Pueblo jar and lid(not visible)"
+                                        captionLine1="Edna Romero"
+                                        captionLine2="C. 2002"
+                                        captionLine3="Pueblo of Taos, NM"
+                                        captionLine4="ASM Purchase from the artist"
+                                        captionLine5="VP for Research Richard Powell funds"
+                                        potID="2002-79-1"
+                                        path="img/pot-images/Col6/Shelf5/2002-79-1.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          <GridItem xs={12} sm={12} md={3}>
+                          <Pot 
+                                        name="Navajo terraced jar(not visible)"
+                                        captionLine1="Michelle Williams"
+                                        captionLine2="C. 2005"
+                                        captionLine3="Shonto, AZ"
+                                        captionLine4="Gift of Bobette Levy"
+                                        potID="2005-999-2"
+                                        path="img/pot-images/Col6/Shelf5/2005-999-2.jpg"
+                                        has3DModel="false"
+                                  />
+                          </GridItem>
+                          </GridContainer>
                       </div>
                       ),
                     },
